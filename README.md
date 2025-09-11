@@ -3,7 +3,7 @@ This project focuses on analyzing the Superstore dataset using SQL to uncover bu
 The goal of this project is to demonstrate end-to-end SQL skills including data exploration, performance analysis, trend identification, cumulative calculations, and advanced business reporting.
 
 **Project Highlights**
-• Wrote 20 SQL queries (basic, intermediate, advanced) in Microsoft SQL Server
+• Wrote 20 SQL queries  in Microsoft SQL Server
 • Explored sales and profit distribution across categories and regions
 • Identified top customers and high-performing products
 • Analyzed year-over-year growth and monthly sales trends
